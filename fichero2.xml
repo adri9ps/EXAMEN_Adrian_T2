@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<acciones>
+  <accion>
+    <nombre>Santander</nombre>
+    <operaciones>
+      <compras>
+	<compra>
+	  <cantidad>25</cantidad>
+	  <precio>5.55</precio>
+	</compra>
+	<compra>
+	  <cantidad>50</cantidad>
+	  <precio>5.60</precio>
+	</compra>
+      </compras>
+      <ventas>
+	<venta>
+	  <cantidad>25</cantidad>
+	  <precio>5.75</precio>
+	</venta>
+	<venta>
+	  <cantidad>25</cantidad>
+	  <precio>5.70</precio>
+	</venta>
+      </ventas>
+    </operaciones>
+  </accion>
+  <accion>
+    <nombre>OHL</nombre>
+    <operaciones>
+      <compras>
+	<compra>
+	  <cantidad>50</cantidad>
+	  <precio>5.02</precio>
+	</compra>
+	<compra>
+	  <cantidad>25</cantidad>
+	  <precio>5.01</precio>
+	</compra>
+      </compras>
+    </operaciones>
+  </accion>
+</acciones>
